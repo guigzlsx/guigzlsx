@@ -32,4 +32,4 @@ Actuellement je suis etudiant en deuxieme année dans l'axe "Coding & Digital In
 * Suite Adobe
 * Libre Office
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigzlsx_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigzlsx)](https://github.com/anuraghazra/github-readme-stats)
