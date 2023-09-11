@@ -7,7 +7,7 @@ Actuellement je suis etudiant en deuxieme année dans l'axe "Coding & Digital In
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigzlsx)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 📝 COMPÉTENCES ET SAVOIR-FAIRE
+# 📝 COMPÉTENCES ET SAVOIR-FAIRE
 
 ## 💬 LANGAGES INFORMATIQUES
 * Python
