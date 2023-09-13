@@ -11,7 +11,7 @@ Actuellement je suis etudiant en deuxieme année dans l'axe "Coding & Digital In
 
 ## 💬 LANGAGES INFORMATIQUES
 * Python
-* HTML, CSS, Javascript
+* HTML, CSS, Javascript,Php
 * SQL
 * Batch
 * VBA Excel
