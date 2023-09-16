@@ -37,16 +37,16 @@ Actuellement je suis etudiant en deuxieme année dans l'axe "Coding & Digital In
 
 ## CENTRES D'INTERETS
 
-### Loisirs
+### 🎹 Loisirs
 * Guitare et composition musicale
 * Bricolage
-### Sports
+### 🥋  Sports
 * Natation
 * Judo
 * jujitsu brésilien
 * Tennis
 * Athlétisme
-### Voyages
+### 🌎 Voyages
 * Espagne
 * Italie
 * Ile Maurice
