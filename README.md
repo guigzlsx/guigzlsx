@@ -4,8 +4,6 @@ Passionné par l’informatique, je souhaite poursuivre mes études pour exercer
 Afin de préparer un Bachelor j'ai intégré en septembre 2022 l'IIM pour ensuite   poursuivre sur un mastère.
 Actuellement je suis etudiant en deuxieme année dans l'axe "Coding & Digital Innovation" a l'IIM (institut de l'internet et du multimédia).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigzlsx)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
