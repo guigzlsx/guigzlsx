@@ -2,14 +2,14 @@
 
 Passionné par l’informatique, je souhaite poursuivre mes études pour exercer le métier d'ingénieur web et mobile. 
 Afin de préparer un Bachelor j'ai intégré en septembre 2022 l'IIM pour ensuite   poursuivre sur un mastère.
-Actuellement je suis etudiant en deuxieme année dans l'axe "Coding & Digital Innovation" a l'IIM (institut de l'internet et du multimédia).
+Actuellement je suis etudiant en deuxieme année dans l'axe "Coding & Digital Innovation" a l'IIM (Institut de l'Internet et du Multimédia).
 
 
 
 
 ## 💬 LANGAGES INFORMATIQUES
 * Python
-* HTML, CSS, Javascript,Php
+* HTML, CSS, Javascript, Php
 * SQL
 * Batch
 * VBA Excel
@@ -19,9 +19,9 @@ Actuellement je suis etudiant en deuxieme année dans l'axe "Coding & Digital In
 * Notepad ++
 * Jupyter Notebook
 * Capytale Notebook
-## 📡 RESEAUX 
+## 📡 RESEAUX
 * Administrateur réseau TCP/IP
-* Système d'exploitation
+## SYSTEMES D'EXPLOITATION
 * Windows, Linux
 ## 💻 OUTILS DE BUREAUTIQUE
 * MS Office
