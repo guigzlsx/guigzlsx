@@ -22,7 +22,8 @@ Actuellement je suis etudiant en deuxieme année dans l'axe "Coding & Digital In
 ## 📡 RESEAUX
 * Administrateur réseau TCP/IP
 ## SYSTEMES D'EXPLOITATION
-* Windows, Linux
+* Windows
+* Linux
 ## 💻 OUTILS DE BUREAUTIQUE
 * MS Office
 * Excel
