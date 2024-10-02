@@ -2,7 +2,7 @@
 
 Passionné par l’informatique, je souhaite poursuivre mes études pour exercer le métier d'ingénieur web et mobile. 
 Afin de préparer un Bachelor j'ai intégré en septembre 2022 l'IIM pour ensuite   poursuivre sur un mastère.
-Actuellement je suis etudiant en deuxieme année dans l'axe "Coding & Digital Innovation" a l'IIM (Institut de l'Internet et du Multimédia).
+Actuellement je suis etudiant en troisième année dans l'axe "Coding & Digital Innovation" a l'IIM (Institut de l'Internet et du Multimédia).
 
 
 
