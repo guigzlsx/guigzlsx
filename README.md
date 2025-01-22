@@ -12,7 +12,6 @@ Actuellement je suis etudiant en troisième année dans l'axe "Coding & Digital 
 * HTML, CSS, Javascript, Php
 * SQL
 * Batch
-* VBA Excel
 ## 🌱 ENVIRONNEMENT DE DEVELOPPEMENT
 * Spyder
 * Visual Studio Code
